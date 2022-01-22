@@ -1,0 +1,25 @@
+.span-color{
+    color: #FABE4C;
+}
+button{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+border-radius: 10px;
+
+}
+
+.background{
+    background: #FFFBF0;
+}
+.back-ground{
+    background: #F1F1F1;
+border-radius: 20px;
+
+}
+/* .logo{
+    width: 78px;
+height: 82px;
+}
+.shopping-img{
+    width: 80%;
+} */
+
